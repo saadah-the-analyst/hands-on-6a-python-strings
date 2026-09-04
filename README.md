@@ -1,4 +1,4 @@
-# hands-on-6a-python-strings
+# Hands-on-6B-python-strings
 
 # Lesson 6A: Python String Engineering & Text Data Pipelines
 
